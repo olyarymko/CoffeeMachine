@@ -1,6 +1,6 @@
 water = int(input("Write how many ml of water the coffee machine has: > "))
 milk = int(input("Write how many ml of milk the coffee machine has: > "))
-beans = int(input("Write how many grams of coffeee beans the coffee machine has: > "))
+beans = int(input("Write how many grams of coffee beans the coffee machine has: > "))
 cups = int(input("Write how many cups of coffee you will need: > "))
 min_water = 200
 min_milk = 50
